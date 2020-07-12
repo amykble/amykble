@@ -4,4 +4,4 @@
 
 💚 I love the vue ecosystem, so if you'd like to work on a project with me, let me know!
 
-🐣 You can find me on twitter @amykble_dev
+🐣 You can find me on twitter [@amykble_dev](https://twitter.com/amykble_dev)
